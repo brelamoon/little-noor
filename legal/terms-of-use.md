@@ -1,6 +1,6 @@
 # Little Noor Terms of Use
 
-Effective date: March 2, 2026
+Effective date: March 31, 2026
 
 These Terms govern the use of the Little Noor app.
 
@@ -18,8 +18,8 @@ Little Noor is an educational mobile app. The app provides Islamic learning jour
 
 - Premium features are offered as auto-renewable subscriptions via Apple App Store.
 - Current plans:
-  - Monthly: USD 9.99
-  - Annual: USD 39.99
+  - Monthly: USD 12.99
+  - Yearly: USD 79.99
 - A free trial may be available (for example, 3 days) based on App Store offer setup.
 - Payment is charged by Apple after trial or at purchase confirmation.
 - Subscription renews automatically unless canceled at least 24 hours before period end.
@@ -64,5 +64,4 @@ Governing law and dispute handling apply according to applicable law and mandato
 
 ## 11. Contact
 
-Support: https://t.me/little_noor_support  
-Legal/terms contact: legal@little-noor.app
+Support: https://t.me/little_noor_support
